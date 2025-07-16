@@ -1,9 +1,8 @@
 # HACKINNO
 
-# Newsiee 🌟📈
+# Newsiee 🌟📈 🎥 [Watch Demo on YouTube](https://www.youtube.com/watch?v=9ry3XrWlpMg)
 
 Welcome to **Newsie** – your go-to news summarization website with advanced features for detecting news validity and enhancing user engagement. Here’s a comprehensive overview of what Newsie has to offer:
-🎥 [Watch Demo on YouTube](https://www.youtube.com/watch?v=9ry3XrWlpMg)
 ## Features ✨
 
 ### 1. **News Fetching and Summarization 📰📋**
